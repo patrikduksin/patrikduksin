@@ -2,12 +2,11 @@
 ## Senior software engineer with 4+ years of experience
 [GitHub](https://github.com/patrikduksin) | [Email](mailto:patrikduksin@gmail.com) | [Cal](https://cal.com/patrikduksin)
 
-I'm a senior software engineer with 4+ years of experience in mobile development. I love to build financial products, 
-being highly interested in DeFi and crypto.
+I'm a senior software engineer with 4+ years of experience in mobile development. I want to work in a product that makes an impact in the lives of users.
 In my work, I like to experiment to better understand the user and improve UX.
 
-Proficient in native iOS and cross-platform react-native development. Have a lot of experience in crypto projects.
-Eager to solve research-heavy problems and adopt new technologies in a meaningful way.
+Proficient in native iOS and cross-platform react-native development. Eager to solve research-heavy problems and adopt
+new technologies in a meaningful way.
 
 Tech Stack
 -
