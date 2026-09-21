@@ -1,8 +1,8 @@
 # Patrik Duksin
-## Senior AI engineer with 7+ years of experience
+## Senior Software Engineer with 7+ years of experience
 [GitHub](https://github.com/patrikduksin) | [Email](mailto:patrikduksin@gmail.com) | [Cal](https://cal.com/patrikduksin)
 
-I'm a senior SWE with 7+ years, of experience development. I want to work in a product that makes an impact in the lives of users.
+I'm a Senior SWE with 7+ years, of experience development. I want to work in a product that makes an impact in the lives of users.
 In my work, I focus on what is user's problem and make it my own, so user can rely on my solution and forget about their pain.
 
 Tech Stack
@@ -13,6 +13,39 @@ Tech Stack
 
 Experience
 -
+### Surreal / Flipp / Rarible / VANA
+**February 2024 to Present | Remote**
+
+Joined Surreal's five-person founding team and helped lead product development through the pivot to Flipp and its acquisition by Rarible. Independently built and shipped thxmelater.app, a new product for Rarible. Following Rarible's acquisition by private equity, left with colleagues from the original Surreal/Flipp team to build VANA.
+
+**VANA | Member of Technical Staff | February 2026 to Present**
+
+Started building VANA with colleagues from the Surreal/Flipp team following Rarible's acquisition by private equity.
+
+- Drove product iterations across MCP tools, agent skills, ChatGPT integrations, and iMessage, adapting a shared health-protocol backend based on user feedback.
+- Built an iMessage coaching agent end to end with persistent memory, proactive follow-ups, and tools for sleep, training, nutrition, and supplement/medication tracking.
+- Took 4–6 experiments per week from idea to user testing, with some reaching production in under an hour.
+
+**Rarible | Senior Software Engineer | July 2025 to January 2026**
+
+Joined Rarible as part of its acquisition of Flipp.
+
+- Sole engineer behind thxmelater.app, built, shipped, and maintained on Flipp's architecture.
+- Enabled first-time BTC purchases in fewer than 5 clicks, including signup, using Privy embedded wallets and Coinbase Onramp with Apple Pay to abstract away crypto complexity.
+- Owned engineering for Rarible's custom marketplaces and brand pages, the company's largest revenue-generating product. Represented engineering on client calls alongside sales and product, aligning requirements and delivery with client expectations.
+
+**Surreal / Flipp | February 2024 to August 2025**<br>
+Senior Software Engineer at Surreal; Founding Engineer at Flipp
+
+Joined the five-person founding team at Surreal, which pivoted to Flipp and was acquired by Rarible.
+
+- Accelerated the team's delivery by prototyping Flipp in end-to-end TypeScript, proving it could match the native app experience and establishing the approach the team adopted for production.
+- Built Flipp from prototype to production with the team, reaching acquisition by Rarible within eight months. Joined Rarible as part of the acquisition.
+
+Stack: TypeScript, React Native, Expo, Cloudflare Workers, Durable Objects, Hono.
+
+<br>
+
 **Sweat Economy, March 2023 – December 2023<br>
 Senior Software Engineer**
 
@@ -92,4 +125,3 @@ Stack: SwiftUI, CoreML, MLKit, AVFoundation, GCD.
 Education
 - 
 **ITMO, Software engineering**
-
