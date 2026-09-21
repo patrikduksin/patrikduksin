@@ -16,13 +16,13 @@ Experience
 ### Surreal / Flipp / Rarible / VANA
 **February 2024 to Present | Remote**
 
-Joined Surreal's five-person founding team and helped lead product development through the pivot to Flipp and its acquisition by Rarible. Independently built and shipped thxmelater.app, a new product for Rarible. Following Rarible's acquisition by private equity, left with colleagues from the original Surreal/Flipp team to build VANA.
+Joined Surreal's five-person founding team and helped lead product development through the pivot to Flipp and its acquisition by Rarible. Independently built and shipped thxmelater.app, a new product for Rarible. Left Rarible to build VANA together with Surreal's founder.
 
 **VANA | Member of Technical Staff | February 2026 to Present**
 
 https://vana.so/
 
-Started building VANA with colleagues from the Surreal/Flipp team following Rarible's acquisition by private equity.
+Built VANA together with Surreal's founder.
 
 - Drove product iterations across MCP tools, agent skills, ChatGPT integrations, and iMessage, adapting a shared health-protocol backend based on user feedback.
 - Built an iMessage coaching agent end to end with persistent memory, proactive follow-ups, and tools for sleep, training, nutrition, and supplement/medication tracking.
@@ -32,7 +32,7 @@ Started building VANA with colleagues from the Surreal/Flipp team following Rari
 
 https://rarible.com/
 
-Joined Rarible as part of its acquisition of Flipp.
+Joined Rarible as part of its acquisition of Flipp. Rarible's brand and core platform assets were later acquired by Impossible Finance.
 
 - Sole engineer behind thxmelater.app, built, shipped, and maintained on Flipp's architecture.
 - Enabled first-time BTC purchases in fewer than 5 clicks, including signup, using Privy embedded wallets and Coinbase Onramp with Apple Pay to abstract away crypto complexity.
@@ -128,4 +128,4 @@ Stack: SwiftUI, CoreML, MLKit, AVFoundation, GCD.
 
 Education
 - 
-**ITMO, Software engineering**
+**ITMO, Computer Science**
