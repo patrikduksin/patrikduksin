@@ -69,11 +69,14 @@ First react-native project for me. Learned a lot of new things: js, react-native
 <br>
 
 **Here Wallet Inc, March 2022 – March 2023<br>
-iOS Team Lead**
+Co-founder | Head of Mobile**
 
 https://herewallet.app/
 
-Development of the first mobile crypto wallet for Near Protocol.
+Co-founded HERE Wallet and led mobile development, identifying product and engineering needs and delivering solutions.
+
+- Built the native mobile app, which reached 600K MAU.
+- Developed the Telegram miniapp frontend, which reached 3M MAU.
 
 Stack: UIKit, SwiftUI, Structured concurrency, Alamofire, Tuist, Swift package manager, AppClip, GitHub Actions, Fastlane.
 
