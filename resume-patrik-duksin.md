@@ -20,6 +20,8 @@ Joined Surreal's five-person founding team and helped lead product development t
 
 **VANA | Member of Technical Staff | February 2026 to Present**
 
+https://vana.so/
+
 Started building VANA with colleagues from the Surreal/Flipp team following Rarible's acquisition by private equity.
 
 - Drove product iterations across MCP tools, agent skills, ChatGPT integrations, and iMessage, adapting a shared health-protocol backend based on user feedback.
@@ -27,6 +29,8 @@ Started building VANA with colleagues from the Surreal/Flipp team following Rari
 - Took 4–6 experiments per week from idea to user testing, with some reaching production in under an hour.
 
 **Rarible | Senior Software Engineer | July 2025 to January 2026**
+
+https://rarible.com/
 
 Joined Rarible as part of its acquisition of Flipp.
 
@@ -89,7 +93,7 @@ Stack: UIKit, SwiftUI, Structured concurrency, Alamofire, Tuist, Swift package m
 **Oops Finance Inc, March 2021 – February 2022 <br>
 Senior iOS Engineer**
 
-https://oops.finance/
+https://oops.app/
 
 Development of a financial manager for gen z from scratch, with an audience of tens of thousands of people. Release to the App Store.
 
