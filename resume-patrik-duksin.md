@@ -1,20 +1,17 @@
 # Patrik Duksin
-## Senior software engineer with 4+ years of experience
+## Senior AI engineer with 7+ years of experience
 [GitHub](https://github.com/patrikduksin) | [Email](mailto:patrikduksin@gmail.com) | [Cal](https://cal.com/patrikduksin)
 
-I'm a senior software engineer with 4+ years of experience in mobile development. I want to work in a product that makes an impact in the lives of users.
-In my work, I like to experiment to better understand the user and improve UX.
-
-Proficient in native iOS and cross-platform react-native development. Eager to solve research-heavy problems and adopt
-new technologies in a meaningful way.
+I'm a senior SWE with 7+ years, of experience development. I want to work in a product that makes an impact in the lives of users.
+In my work, I focus on what is user's problem and make it my own, so user can rely on my solution and forget about their pain.
 
 Tech Stack
--
-- **iOS**: SwiftUI, UIKit, Combine, Structured concurrency, Realm, Alamofire, CoreAnimation, CoreML, XCTest
-- **Frontend**: Javascript, Typescript, React Native, Redux, Styled Components, React Navigation
-- **CI/CD**: Fastlane, CocoaPods, Swift Package Manager, SwiftLint, Tuist, Git, Make
+- **iOS**: Swift, SwiftUI, UIKit, Structured concurrency, CoreAnimation, Combine, CoreML, XCTest
+- **Cross Platform**: React Native, Expo, EAS.
+- **Frontend**: Typescript, React, NextJS, Tanstack Start.
+- **Backend:** NodeJS, Hono, Fastify, Effect.
 
-Experience - 4+ years
+Experience
 -
 **Sweat Economy, March 2023 – December 2023<br>
 Senior Software Engineer**
