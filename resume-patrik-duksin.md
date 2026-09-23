@@ -1,134 +1,84 @@
 # Patrik Duksin
-## Senior Software Engineer with 7+ years of experience
-[GitHub](https://github.com/patrikduksin) | [Email](mailto:patrikduksin@gmail.com) | [Cal](https://cal.com/patrikduksin)
+**Senior software engineer | Product engineering & founding teams**
 
-I'm a Senior SWE with 7+ years, of experience development. I want to work in a product that makes an impact in the lives of users.
-In my work, I focus on what is user's problem and make it my own, so user can rely on my solution and forget about their pain.
+[GitHub](https://github.com/patrikduksin) · [Email](mailto:patrikduksin@gmail.com) · [Book a call](https://cal.com/patrikduksin)
 
-Tech Stack
-- **iOS**: Swift, SwiftUI, UIKit, Structured concurrency, CoreAnimation, Combine, CoreML, XCTest
-- **Cross Platform**: React Native, Expo, EAS.
-- **Frontend**: Typescript, React, NextJS, Tanstack Start.
-- **Backend:** NodeJS, Hono, Fastify, Effect.
+## Profile
 
-Experience
--
-### Surreal / Flipp / Rarible / VANA
-**February 2024 to Present | Remote**
+Software engineer and former co-founder who owns product problems from discovery through production. I use deep experience across mobile, web, and backend systems to choose practical solutions, shorten feedback cycles, and build development workflows where AI agents can take on substantial work.
 
-Joined Surreal's five-person founding team and helped lead product development through the pivot to Flipp and its acquisition by Rarible. Independently built and shipped thxmelater.app, a new product for Rarible. Left Rarible to build VANA together with Surreal's founder.
+## Technical background
 
-**VANA | Member of Technical Staff | February 2026 to Present**
+TypeScript, React, React Native / Expo, Swift / SwiftUI / UIKit, Node.js, Next.js, Hono, Cloudflare Workers / Durable Objects, infrastructure as code, AI agents, MCP, and development automation.
 
-https://vana.so/
+## Experience
 
-Built VANA together with Surreal's founder.
+### Surreal / Flipp → Rarible → VANA
+**February 2024 to present | Remote**
 
-- Drove product iterations across MCP tools, agent skills, ChatGPT integrations, and iMessage, adapting a shared health-protocol backend based on user feedback.
-- Built an iMessage coaching agent end to end with persistent memory, proactive follow-ups, and tools for sleep, training, nutrition, and supplement/medication tracking.
-- Took 4–6 experiments per week from idea to user testing, with some reaching production in under an hour.
+Joined Surreal's five-person founding team and worked on its mobile app. Used the pivot to Flipp to address technical constraints on delivery, helping the team move faster through a new architecture. Continued through Flipp's acquisition by Rarible, where I shipped a new product and took ownership of a core revenue-generating offering. When Rarible itself changed ownership, left to build VANA with Surreal's founder.
 
-**Rarible | Senior Software Engineer | July 2025 to January 2026**
+#### [VANA](https://vana.so/) · Member of Technical Staff
+**February 2026 to present**
 
-https://rarible.com/
+Health and fitness product helping users build and follow personal protocols. Early product-led exploration focused on mobile and web apps.
 
-Joined Rarible as part of its acquisition of Flipp. Rarible's brand and core platform assets were later acquired by Impossible Finance.
+- Recognized an opportunity to deliver the service through interfaces people already used. Drove and built successive approaches using MCP tools, agent skills, ChatGPT integrations, and an iMessage agent. Each reached users, whose feedback guided the next step.
+- Adapted a shared health-protocol backend to each interface, building the adapters and capabilities needed to bring the product into tools people already used.
+- Built a domain-specific agent harness for health and performance coaching, built a git inspired style memory layer, proactive follow-ups, and tools to do analysis or sleep and training, nutrition, supplement or medication tracking. Wrapped it in an iMessage interface so users could follow protocols and access coaching through familiar messaging.
+- Designed the project for agentic development across the full SDLC, turning product requests into independently executable work with clear feedback and verification. Combined reproducible environments, infrastructure as code, staging deployment, end-to-end testing of real user flows, and observability so agents could explore solutions, implement changes, and detect and fix regressions in the running product before human review. This enabled larger pieces of work to progress with less supervision and accelerated experimentation.
+- Took 4–6 experiments per week from idea to user testing, with some reaching production in under an hour, making it practical to compare approaches before investing further.
 
-- Sole engineer behind thxmelater.app, built, shipped, and maintained on Flipp's architecture.
-- Enabled first-time BTC purchases in fewer than 5 clicks, including signup, using Privy embedded wallets and Coinbase Onramp with Apple Pay to abstract away crypto complexity.
-- Owned engineering for Rarible's custom marketplaces and brand pages, the company's largest revenue-generating product. Represented engineering on client calls alongside sales and product, aligning requirements and delivery with client expectations.
+#### [Rarible](https://rarible.com/) · Senior Software Engineer
+**July 2025 to January 2026**
 
-**Surreal / Flipp | February 2024 to August 2025**<br>
-Senior Software Engineer at Surreal; Founding Engineer at Flipp
+- Sole engineer behind [thxmelater.app](https://thxmelater.app/), building, shipping, and maintaining the product on Flipp's architecture.
+- Simplified first-time BTC purchases to fewer than five clicks, including signup. Combined Privy embedded wallets with Coinbase Onramp and Apple Pay so users could fund their wallets and buy without navigating crypto wallet complexity.
+- While supporting thxmelater, took engineering ownership of custom marketplaces and brand pages, the company's largest revenue-generating product.
+- Represented engineering in client calls alongside sales and product, translating client expectations into requirements and aligning delivery with the agreed experience.
 
-Joined the five-person founding team at Surreal, which pivoted to Flipp and was acquired by Rarible.
+#### Surreal / Flipp · Senior Software Engineer → Founding Engineer
+**February 2024 to August 2025**
 
-- Accelerated the team's delivery by prototyping Flipp in end-to-end TypeScript, proving it could match the native app experience and establishing the approach the team adopted for production.
-- Built Flipp from prototype to production with the team, reaching acquisition by Rarible within eight months. Joined Rarible as part of the acquisition.
+- While developing Surreal's mobile app, identified how the Swift iOS and Go stack constrained the team's iteration speed. Used the pivot to Flipp to test a different approach through a rapid proof of concept.
+- Proved that React Native / Expo could match the native app experience. Adopted TypeScript across the app and backend, with tRPC providing end-to-end type safety, Hono as the backend framework, and Cloudflare Workers and Durable Objects as serverless infrastructure. The team adopted this architecture for production, shortening the cycle from idea to testing with users.
+- Lead Flipp from prototype to production with the team, reaching acquisition within 8 months.
 
-Stack: TypeScript, React Native, Expo, Cloudflare Workers, Durable Objects, Hono.
+### [Sweat Economy](https://sweateconomy.com/) · Senior Software Engineer
+**March 2023 to December 2023**
 
-<br>
+Worked on a crypto wallet designed to be approachable for users without crypto experience.
 
-**Sweat Economy, March 2023 – December 2023<br>
-Senior Software Engineer**
+- Improved interface responsiveness by splitting order-book requests and processing data asynchronously.
+- Migrated trading-data fetching to RTK Query, simplifying caching and state management while reducing boilerplate.
+- Improved translation infrastructure and implemented Brazilian Portuguese support to broaden the app's reach.
+- Proposed clear completion criteria for design handoffs, reducing ambiguity between design and engineering and speeding up layout implementation.
 
-https://sweateconomy.com/
+### [HERE Wallet](https://herewallet.app/) · Co-founder | Head of Mobile
+**March 2022 to March 2023**
 
-Development of the crypto wallet for Sweat Economy friendly to web2 users.
+Co-founded a NEAR Protocol wallet, identifying company needs and owning mobile product and engineering solutions.
 
-Stack: Javascript, Typescript, React Native, Redux, Styled Components, React Navigation
+- Built the native mobile app, which reached 600K MAU, and developed the Telegram miniapp frontend, which reached 3M MAU.
+- Identified registration friction and proposed and built an App Clip for instant signup, increasing registration conversion by approximately 30%.
+- Modularized the iOS application and automated asset and configuration generation to speed up feature development.
+- Moved analytics through the backend, reducing service costs and eliminating duplicate events. Added crash monitoring and alerts to detect critical production issues early.
+- Implemented wallet key generation and transaction signing through C / Swift interoperability, along with blockchain RPC networking. Used structured concurrency to reduce synchronization bugs.
 
-First react-native project for me. Learned a lot of new things: js, react-native, redux, tools, etc. In a short time I started to contribute to the project using a completely new stack for me.
+### [Oops Finance](https://oops.app/) · Senior iOS Engineer
+**March 2021 to February 2022**
 
-- Increased speed of processing order book data by splitting up requests and processing them asynchronously to make interface faster.
-- Migrated to RTK Query for fetching trading data. It reduced boilerplate code and made work with caching and states easier.
-- Worked on the app translation infrastructure. Helped to reach larger audience. Implemented translation to Brazilian Portuguese.
-- Proposed definition of done for the design handoff process. It helped to increase layout development speed and reduce miscommunication with designers.
+- Built and released a personal finance app serving tens of thousands of users, including integrations with US and European banks through Plaid.
+- Worked with product and backend engineers on retention-focused notifications and API contracts. Added request logging to speed up debugging across teams.
+- Automated build distribution and pull-request checks with GitHub Actions and Fastlane, shortening the path from merged code to feature testing. Reviewed two engineers' code and co-authored team coding standards.
 
-<br>
+### [Fora Vision](https://fora.vision/) · iOS Engineer
+**December 2019 to February 2021**
 
-**Here Wallet Inc, March 2022 – March 2023<br>
-Co-founder | Head of Mobile**
+- Built real-time video processing for on-device exercise recognition, running CoreML and MLKit inference concurrently.
+- Added visual feedback for completed repetitions, reducing unnecessary repetitions by 36%.
+- Implemented workout pause and recovery after backend disconnections, improving workout completion.
 
-https://herewallet.app/
+## Education
 
-Co-founded HERE Wallet and led mobile development, identifying product and engineering needs and delivering solutions.
-
-- Built the native mobile app, which reached 600K MAU.
-- Developed the Telegram miniapp frontend, which reached 3M MAU.
-
-Stack: UIKit, SwiftUI, Structured concurrency, Alamofire, Tuist, Swift package manager, AppClip, GitHub Actions, Fastlane.
-
-- Broke the application into modules using Tuist and SPM, configured code-generation for assets and configs, which allowed iterations on features faster and shortened time2market.
-- Proposed and developed AppClip for instant registration in an application, which increased the registration conversion of new users by ~30 percent. The feature has made a huge impact in the Near community. 
-- Lead analytics migration from direct use of Mixpanel to proxy events through the backend. Reduced the cost of using analytical services and eliminated duplication of events.
-- Integrated Sentry to track release stability and critical functionality. Set up crash alerts, which helped to identify several critical situations at an early stage. 
-- Implemented a 100% programmatic UI in Swift using UIKit.
-- Used NSCollectionViewCompositionalLayout and UICollectionViewDiffableDataSource for the CollectionView.
-- Significantly reduced the number of "classic" asynchronous bugs, improved code readability, and simplified complex synchronization tasks by using a new model for performing asynchronous operations: async/await, Actor, Task, AsyncSequence
-- Implemented key generation and transaction signing functionality using an interop between C and Swift.
-- Implemented a networking layer allowing RPC nodes to work with blockchain using custom data decoding.
-- Speed up prototyping of simple screens using SwiftUI
-
-<br>
-
-**Oops Finance Inc, March 2021 – February 2022 <br>
-Senior iOS Engineer**
-
-https://oops.app/
-
-Development of a financial manager for gen z from scratch, with an audience of tens of thousands of people. Release to the App Store.
-
-Stack: SwiftUI, UIKit, CoreAnimation, Combine, Alamofire, Tuist, Swift package manager, Plaid SDK, GitHub Actions, Fastlane.
-
-- Implemented integration with US and European banks via Plaid
-- Had been collaborating with the backend and the product team. We developed a notification system that significantly increases retention.
-- Implemented a network layer using Alamofire, with request logging, significantly speeding up debugging with the backend team.
-- Developed analytics layer with generic service provider, which helped to easily migrate from Mixpanel to Amplitude SDK.
-- Collaborated with backend engineers to develop REST API contracts.
-- Reviewed code of 2 fellow engineers.
-- Co-authored code standards for the iOS team.
-- Increased the speed of checking pull requests by setting up CI / CD to automatically check the code style and the correctness of the pull request.
-- Automated application build via GitHub Action + Fastlane. It accelerated the testing of new functionality, shortening the path from a merged pull request to testing
-<br>
-
-**Fora Vision, December 2019 – February 2021 <br>
-iOS Engineer**
-
-https://fora.vision/
-
-Development of a workout app with real-time on-device exercise recognition.
-
-Stack: SwiftUI, CoreML, MLKit, AVFoundation, GCD.
-
-- Implemented a video stream handler using AVFoundation
-- Parallelized the video stream processing into different threads to receive data from two neural networks: Apple CoreML + Google MLKit.
-- Eliminated the number of unnecessary repetitions by 36% by implementing a visual notification of successful completion by highlighting the skeleton during the exercise.
-- Implemented the ability to pause the training and restore it in case of a disconnection from the backend, increasing the percentage of completed workouts.
-- Implemented the transfer of information about the body's position to the backend using a websocket.
-<br>
-
-Education
-- 
-**ITMO, Computer Science**
+ITMO · Computer Science
